@@ -1,4 +1,4 @@
-# Server Rules
+# THE RULES
 
 ### 1. Be kind
 Please be respectful to your fellow campers. Repeated rudeness will not be tolerated, nor will hate speech or discrimination of any kind. If anyone is making you uncomfortable, please let someone on the #staff know and we can help handle the situation. And if your behavior is making other people uncomfortable, please stop that behavior. Keep in mind that this is a shared space and we want everyone to feel safe and welcome.
