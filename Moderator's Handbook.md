@@ -17,11 +17,13 @@ Examples:
 Sometimes people forget that all art needs to be credited or sourced if it doesn't have a readable signature or watermark. If you come across a post like that, kindly remind the person to credit the artist. You're not obligated to source art for the people who post it, but feel free to chime in if you happen to know who made something.
 
 ### Adult content
-We classify "adult content" as content that features sexual intercourse or exposed genitalia, or content that appears to be made with the intent to arouse or gratify the sexual desires of the viewer/reader. Adult content is not allowed anywhere in the server except for the NSFW channels.
+We classify "adult content" as content that features sexual intercourse or exposed genitalia, or content that appears to be made with the intent to arouse or gratify the sexual desires of the viewer/reader.
 
-If somebody posts adult content outside the designated NSFW channels, delete the post yourself as soon as possible. This kind of thing should be handled privately, so send them a DM and explain why you deleted their post.
+Adult content that features exposed genitalia or sexual intercourse is not allowed anywhere in the server. Content that is merely sexually suggestive is allowed but only in the designated NSFW channels.
 
-If you're unsure if something should be considered NSFW, post it in the moderator's channel so we can discuss it.
+If somebody posts content that is EXPLICITLY adult outside the designated NSFW channels, delete the post yourself as soon as possible. This kind of thing should be handled privately, so send them a DM (if you can) and explain why you deleted their post.
+
+Content that isn't explicit, but is merely SUGGESTIVE is a bit more of a grey area, so if you're unsure if something should be considered NSFW, post it in the moderator's channel so we can discuss it.
 
 
 ---
